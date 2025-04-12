@@ -1,0 +1,11 @@
+.home {
+    min-height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(52, 52, 85, 0.5), rgba(70, 76, 111, 0.5)),
+        url("../images/landing_page_image.jpg");
+    ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
