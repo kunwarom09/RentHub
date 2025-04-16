@@ -1,0 +1,46 @@
+.testimonial{
+ padding: 0 5%;
+}
+
+.testimonial_container{
+    min-height: 50vh;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.testimonial_container .testimonial_card{
+    width: 100%;
+    padding: 2% 3%;
+    text-align: center;
+    line-height: 2.5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.testimonial_card img{
+    border-radius: 50%;
+}
+
+.testimonial_info{
+    text-align: center;
+}
+
+.testimonial_name{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.testimonial_location{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(117, 117, 117);
+}
+
+.testimonial_text{
+    padding: 0 5%;
+    font-size: 18px;
+    
+}

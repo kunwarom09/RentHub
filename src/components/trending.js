@@ -7,7 +7,7 @@ export const Trending = () => {
   return (
     <div className="trending_container">
       <div className="title">Trending Properties</div>
-      <div className="trending_container_upper">
+      <div className="container_upper">
       <div className="sub_title">
         Explore the currently trending properties around
       </div>

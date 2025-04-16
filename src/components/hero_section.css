@@ -1,7 +1,7 @@
 .home {
     min-height: 100vh;
     width: 100%;
-    background: linear-gradient(rgba(52, 52, 85, 0.5), rgba(70, 76, 111, 0.5)),
+    background: linear-gradient(rgb(52, 52, 85), rgb(70, 76, 111)),
         url("../images/landing_page_image.jpg");
     ;
     background-position: center;

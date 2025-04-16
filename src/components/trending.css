@@ -2,13 +2,13 @@
     padding: 2% 5%;
 }
 
-.trending_container_upper{
+.container_upper{
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.trending_container_upper .property_link a{
+.container_upper .property_link a{
     color: black;
     font-size: 20px;
     font-weight: 400;

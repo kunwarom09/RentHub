@@ -1,0 +1,53 @@
+.cta {
+    margin-top: 3%;
+    min-height: 50vh;
+    background: linear-gradient(rgba(52, 52, 85, 0.5), rgba(70, 76, 111, 0.5)),
+        url("../images/call_to_action_bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.cta_container {
+    padding: 0 5%;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    line-height: 2.5rem;
+    font-size: 18px;
+    color: white;
+}
+
+.cta_container h1 {
+    font-size: 45px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+.cta_container p {
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.rent_now_btn{
+    background-color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    transition: all ease-in-out .7s;
+}
+
+.rent_now_btn:hover{
+    color: black; 
+    background-color: white;
+}

@@ -29,7 +29,7 @@ const Mobile_menu = () => {
               <Link to="/home">Home</Link>
             </li>
             <li>
-              <Link to="/about_us">About Us</Link>
+              <Link to="/properties">Properties</Link>
             </li>
             <li>
               <Link to="/rent_room">Rent Room</Link>
